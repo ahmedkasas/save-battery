@@ -1,0 +1,47 @@
+/* App */
+"app_name" = "Save Battery";
+
+/* Tabs */
+"tab_dashboard" = "Dashboard";
+"tab_history" = "History";
+"tab_tips" = "Tips";
+"tab_settings" = "Settings";
+
+/* Battery states */
+"battery_state_unknown" = "Unknown";
+"battery_state_unplugged" = "On battery";
+"battery_state_charging" = "Charging";
+"battery_state_full" = "Fully charged";
+
+/* Dashboard */
+"low_power_mode_active" = "Low Power Mode is on";
+"dashboard_tips_section" = "Tips for you";
+"open_system_settings" = "Open Battery Settings";
+
+/* Tips */
+"tip_low_battery" = "Your battery is low — consider enabling Low Power Mode.";
+"tip_enable_low_power_mode" = "Enable Low Power Mode to reduce background activity and extend battery life.";
+"tip_reduce_brightness" = "Lower your screen brightness or enable Auto-Brightness to save power.";
+"tip_background_refresh" = "Turn off Background App Refresh for apps you rarely use.";
+"tip_avoid_extreme_temperatures" = "Avoid charging or using your iPhone in very hot or very cold environments.";
+"tip_avoid_full_discharge" = "Try not to let your battery fully drain to 0% regularly.";
+"tip_use_wifi_over_cellular" = "Prefer Wi-Fi over cellular data when available — it usually uses less power.";
+"tip_disable_unused_widgets" = "Remove widgets and live activities you don't actively use from your Home Screen.";
+"tip_optimized_battery_charging" = "Keep Optimized Battery Charging enabled to reduce battery aging.";
+
+/* History */
+"history_empty_title" = "No charging sessions yet";
+"history_empty_description" = "Charging sessions will appear here once you plug in your iPhone.";
+"history_ongoing" = "In progress";
+"history_minutes_format" = "%d min";
+"history_hours_minutes_format" = "%dh %dm";
+
+/* Settings */
+"settings_charge_reminder_section" = "Charge Limit Reminder";
+"settings_charge_reminder_toggle" = "Notify me when charge limit is reached";
+"settings_charge_limit_value" = "Notify at %d%%";
+"settings_footer_note" = "Charging past 80% occasionally is fine, but keeping most charges under this limit can help slow long-term battery aging.";
+
+/* Notifications */
+"notification_charge_limit_title" = "Battery charge limit reached";
+"notification_charge_limit_body" = "Your iPhone has reached %d%% charge. Consider unplugging to help preserve battery health.";

@@ -1,0 +1,47 @@
+/* App */
+"app_name" = "حفظ البطارية";
+
+/* Tabs */
+"tab_dashboard" = "الرئيسية";
+"tab_history" = "السجل";
+"tab_tips" = "نصائح";
+"tab_settings" = "الإعدادات";
+
+/* Battery states */
+"battery_state_unknown" = "غير معروف";
+"battery_state_unplugged" = "على البطارية";
+"battery_state_charging" = "يشحن الآن";
+"battery_state_full" = "الشحن مكتمل";
+
+/* Dashboard */
+"low_power_mode_active" = "وضع توفير الطاقة مُفعّل";
+"dashboard_tips_section" = "نصائح لك";
+"open_system_settings" = "فتح إعدادات البطارية";
+
+/* Tips */
+"tip_low_battery" = "شحن البطارية منخفض — يُفضّل تفعيل وضع توفير الطاقة.";
+"tip_enable_low_power_mode" = "فعّل وضع توفير الطاقة لتقليل النشاط في الخلفية وإطالة عمر البطارية.";
+"tip_reduce_brightness" = "خفّض سطوع الشاشة أو فعّل السطوع التلقائي لتوفير الطاقة.";
+"tip_background_refresh" = "أوقف تحديث التطبيقات في الخلفية للتطبيقات التي نادرًا ما تستخدمها.";
+"tip_avoid_extreme_temperatures" = "تجنّب شحن أو استخدام آيفون في درجات حرارة مرتفعة أو منخفضة جدًا.";
+"tip_avoid_full_discharge" = "حاول ألا تترك البطارية تصل إلى 0% بشكل متكرر.";
+"tip_use_wifi_over_cellular" = "فضّل استخدام شبكة الواي فاي على بيانات الجوال عند توفرها، فهي عادةً أقل استهلاكًا للطاقة.";
+"tip_disable_unused_widgets" = "أزل الودجات والأنشطة الحيّة التي لا تستخدمها فعليًا من الشاشة الرئيسية.";
+"tip_optimized_battery_charging" = "أبقِ خاصية الشحن المحسّن للبطارية مفعّلة لتقليل تدهور البطارية مع الوقت.";
+
+/* History */
+"history_empty_title" = "لا توجد جلسات شحن بعد";
+"history_empty_description" = "ستظهر جلسات الشحن هنا بمجرد توصيل آيفون بالشاحن.";
+"history_ongoing" = "قيد الشحن";
+"history_minutes_format" = "%d دقيقة";
+"history_hours_minutes_format" = "%d س %d د";
+
+/* Settings */
+"settings_charge_reminder_section" = "تنبيه حد الشحن";
+"settings_charge_reminder_toggle" = "نبّهني عند الوصول إلى حد الشحن";
+"settings_charge_limit_value" = "التنبيه عند %d%%";
+"settings_footer_note" = "الشحن حتى 100% أحيانًا لا بأس به، لكن الإبقاء على معظم الشحنات دون هذا الحد قد يساعد على إبطاء تدهور البطارية على المدى الطويل.";
+
+/* Notifications */
+"notification_charge_limit_title" = "تم الوصول إلى حد الشحن";
+"notification_charge_limit_body" = "وصل آيفون إلى نسبة شحن %d%%. يُفضّل فصله عن الشاحن للحفاظ على صحة البطارية.";
